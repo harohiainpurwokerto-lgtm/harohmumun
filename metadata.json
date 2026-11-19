@@ -1,0 +1,6 @@
+{
+  "name": "LajuNet Billing & NOC",
+  "description": "Aplikasi manajemen pelanggan internet, billing bulanan tanpa denda keterlambatan, monitoring perangkat ONT/Router via webhook API, dan laporan keuangan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
